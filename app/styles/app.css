@@ -1,8 +1,11 @@
+/* line 5, /Users/dhrin_IMAC/Desktop/weather/app/styles/app.scss */
 .page-title {
-    margin-top: 2.5rem;
-    margin-bottom: 2.5rem;
-}
+  color: #555;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem; }
 
+/* line 11, /Users/dhrin_IMAC/Desktop/weather/app/styles/app.scss */
 input[type=search] {
-    box-shadow: none;
-}
+  box-shadow: none; }
+
+/*# sourceMappingURL=app.css.map */
